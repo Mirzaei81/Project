@@ -1,0 +1,12 @@
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.deps.json
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.dll
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\bin\Debug\net6.0\MergeSort.pdb
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.csproj.AssemblyReference.cache
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfoInputs.cache
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.AssemblyInfo.cs
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.csproj.CoreCompileInputs.cache
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.dll
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\refint\MergeSort.dll
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\MergeSort.pdb
+C:\Users\PC\Project\c_sharp\mergesort\MergeSort\MergeSort\obj\Debug\net6.0\ref\MergeSort.dll

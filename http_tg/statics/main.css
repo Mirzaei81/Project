@@ -1,0 +1,14 @@
+body{
+    margin:0;
+}
+
+div{
+    display: grid;
+    place-content: center;
+    height: 100vh;
+    
+}
+h1{
+    color: red;
+    font-size: xx-large;
+}

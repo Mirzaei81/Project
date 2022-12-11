@@ -1,0 +1,132 @@
+body{
+    margin: 0%;
+    height: 100vh;
+    background-color: #66CED6;
+}
+
+.parent{
+    display:grid;
+    place-items: center;
+    height: 300px;
+    width: 300px;
+    grid-template-rows: repeat(3 ,calc(100%/3));
+    grid-template-columns: repeat(3 ,calc(100%/3));
+    z-index: 999;
+}
+.parent > div{
+    height: 50px;
+    width: 50px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 50%;
+    border-width: 5px;
+    border-style: solid;
+    transition: background-color 200ms linear;
+    background-color: white;
+}
+
+#red{
+    border-color: red;
+    grid-column-start: 2;
+    filter: brightness(1.75);
+}
+#red:hover{
+    background-color: red;
+
+}
+#green{
+    border-color: green;
+    grid-row-start: 2;
+}
+#green:hover{
+    background-color: green;
+}
+#yellow{
+    border-color: yellow;
+    grid-column-start: 2;
+    grid-row-start: 3;
+}
+
+#yellow:hover{
+    background-color: yellow;
+}
+#blue{
+    border-color: blue;
+    grid-column-start: 3;
+    grid-row-start: 2;
+}
+
+
+#blue:hover{
+    background-color: blue;
+
+}
+
+button{
+    border-radius: 10%;
+    background-color: #758BFD;
+    width:5rem;
+    height: 3rem;
+    grid-area: 2/2/2/2;
+    font-size: 2em;
+}
+button:hover{
+    background-color: #4C69FC;
+}
+
+#status{
+    width: 100vw;
+    display: flex;
+    font-size:3em;
+    place-content: center;
+    position: absolute;  
+}
+.lvl{
+    width: 100vw;
+    height: 90vh;
+    display:flex;
+    place-content: center;
+    font-size:3em;
+    position: absolute;
+    align-items: flex-end;
+    padding-bottom: 2rem;
+}
+.no_tap{
+    pointer-events: none;
+}
+
+.red_blink{
+    animation: r_blink 2s ease-in-out 200ms;
+}
+.blue_blink{
+    animation: b_blink 2s ease-in-out 200ms;
+
+}
+.yellow_blink{
+    animation: y_blink 2s ease-in-out 200ms;
+
+}
+.green_blink{
+    animation: g_blink 2s ease-in-out 200ms;
+
+}
+@keyframes r_blink{
+    0% {background-color: white;}
+    50% {background-color: red;}
+    100% {background-color: white;}
+}
+@keyframes b_blink{
+    0% {background-color: white;}
+    50% {background-color: blue;}
+    100% {background-color: white;}
+}
+@keyframes y_blink{
+    0% {background-color: white;}
+    50% {background-color:yellow;}
+    100% {background-color: white;}
+}
+@keyframes g_blink{
+    0% {background-color: white;}
+    50% {background-color: green;}
+    100% {background-color: white;}
+}

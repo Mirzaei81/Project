@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+option csharp_namespace = "gameapi";
+
+service GetGameId{
+	rpc GetGamesByID (GetByIdRequest) returns (SendGameResponse);
+}
+
+message GetByIdRequest{
+	int32 UserId = 1;
+}
+
+message  GameModel{
+	int32 Id = 1;
+	string Name = 2;
+	string ImageUrl = 3;
+	int32 rating = 4;
+}
+
+message SendGameResponse{
+	repeated GameModel game = 1;
+}
+
+

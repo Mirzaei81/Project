@@ -1,0 +1,15 @@
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.csproj.AssemblyReference.cache
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.AssemblyInfoInputs.cache
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.AssemblyInfo.cs
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.csproj.CoreCompileInputs.cache
+C:\Users\PC\Project\CsharpIntro\bin\Debug\net6.0\CsharpIntro.exe
+C:\Users\PC\Project\CsharpIntro\bin\Debug\net6.0\CsharpIntro.deps.json
+C:\Users\PC\Project\CsharpIntro\bin\Debug\net6.0\CsharpIntro.runtimeconfig.json
+C:\Users\PC\Project\CsharpIntro\bin\Debug\net6.0\CsharpIntro.dll
+C:\Users\PC\Project\CsharpIntro\bin\Debug\net6.0\CsharpIntro.pdb
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.dll
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\refint\CsharpIntro.dll
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.pdb
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\CsharpIntro.genruntimeconfig.cache
+C:\Users\PC\Project\CsharpIntro\obj\Debug\net6.0\ref\CsharpIntro.dll

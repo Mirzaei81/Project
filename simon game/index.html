@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery-3.6.0.js"></script>
+</head>
+<body>
+    <div id="status">wait</div>
+    <div class="lvl">level : <span> 0 </span></div>
+    <div style="display: grid;place-items: center;height: 100vh;">
+           
+        <div class="parent">
+            <div class="simon-part" id="red"></div>
+            <div class="simon-part" id="blue"></div>
+            <button onclick="draw_Color()">start</button>
+            <div class="simon-part" id="green"></div>
+            <div class="simon-part" id="yellow"></div>
+        </div>
+        
+    </div> 
+    <script src="script.js"></script>
+</body>
+</html>

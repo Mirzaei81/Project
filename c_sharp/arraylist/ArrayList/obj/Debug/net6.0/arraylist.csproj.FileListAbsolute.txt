@@ -1,0 +1,15 @@
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\bin\Debug\net6.0\arraylist.exe
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\bin\Debug\net6.0\arraylist.deps.json
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\bin\Debug\net6.0\arraylist.runtimeconfig.json
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\bin\Debug\net6.0\arraylist.dll
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\bin\Debug\net6.0\arraylist.pdb
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.csproj.AssemblyReference.cache
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.AssemblyInfoInputs.cache
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.AssemblyInfo.cs
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.csproj.CoreCompileInputs.cache
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.dll
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\refint\arraylist.dll
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.pdb
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\arraylist.genruntimeconfig.cache
+C:\Users\PC\project\c_sharp\arraylist\ArrayList\obj\Debug\net6.0\ref\arraylist.dll
